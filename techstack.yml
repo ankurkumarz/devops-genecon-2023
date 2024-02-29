@@ -1,0 +1,20 @@
+repo_name: ankurkumarz/devops-genecon-2023
+report_id: 4bea93e054db041425d51a29964e90a0
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:00:36+00:00'
+requested_by: LucyITRev
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/devops-genecon-2023
+  detection_source: Repo Metadata
